@@ -8,16 +8,20 @@ https://stellar.expert/explorer/testnet/contract/CA3WSQGL4SMWXNU7AKSDJBURLUYECI6
 
 ## 🌟 Key Features
 - **♻️ Eco-Friendly Marketplace**
-Simulated store where users earn GreenPoints (GP) for choosing sustainable virtual products.
+
+  Simulated store where users earn GreenPoints (GP) for choosing sustainable virtual products.
 
 - 🚲 **Real-Life Action Rewards (Prototype)**
-Users can report eco-friendly activities such as walking, cycling, climbing, or using public transportation to earn GP tokens.
+  
+  Users can report eco-friendly activities such as walking, cycling, climbing, or using public transportation to earn GP tokens.
 
 - 🔒 **Staking Mechanism**
-Users can stake their GP tokens to passively earn more — simulating the long-term rewards of consistent green behavior.
+
+  Users can stake their GP tokens to passively earn more — simulating the long-term rewards of consistent green behavior.
 
 - 🏆 **Leaderboard System**
-Tracks users’ lifetime GP earnings and ranks them based on their eco-impact.
+
+  Tracks users’ lifetime GP earnings and ranks them based on their eco-impact.
 
 ---
 
