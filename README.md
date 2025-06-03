@@ -2,7 +2,7 @@
 
 Tokenized Eco Rewards System
 
-GreenPoints is a Rust-based simulation of a token economy that rewards users for making environmentally sustainable choices — in both digital interactions and real-world eco-actions.
+GreenPoints is a blockchain-based eco reward system where users are incentivized to make environmentally sustainable choices through tokenized rewards. This project operates on the Stellar network using smart contracts developed with Soroban and its native token, GreenPoints Token (GP). Users can earn GP by making eco-friendly decisions both in virtual shopping experiences and through real-life activities such as cycling, walking, and using public transport.
 
 https://stellar.expert/explorer/testnet/contract/CA3WSQGL4SMWXNU7AKSDJBURLUYECI6ITUHP4RQ2F7CXT4G26QWB23KJ
 
@@ -30,10 +30,12 @@ React, Stellar Soroban, Rust, Stellar SDK, Freighter
 
 ## 🖥️ Frontend Web Application
 
-The user interface of Green Shopping is designed to be modern, responsive, and easy to use.
+The user interface of Green Points is designed to be modern, responsive, and easy to use.
 
 ---
 
 ## Screen recordings
 
-https://github.com/user-attachments/assets/7c006721-57ec-486f-a02d-0d8f1e1d2676
+
+![greenPoints](https://github.com/user-attachments/assets/3d37e226-857b-441e-ab66-2d7634eeec7f)
+
