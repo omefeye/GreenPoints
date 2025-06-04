@@ -90,7 +90,7 @@ The UI is built using React and styled with Tailwind CSS for a clean, modern loo
 
 ---
 
-### 🔄 Phase 2: Better User Experience (Q3 2025)  
+### 🔄 Phase 2: Better User Experience  
 - Notifications for rewards and staking  
 - Personal sustainability profile  
 - Improved activity verification system  
@@ -98,14 +98,14 @@ The UI is built using React and styled with Tailwind CSS for a clean, modern loo
 
 ---
 
-### 📱 Phase 3: Real-World Tracking (Q4 2025)  
+### 📱 Phase 3: Real-World Tracking 
 - Connect with health apps (Google Fit, Apple Health)  
 - GPS-based action tracking  
 - Eco badges and rewards  
 
 ---
 
-### 🌍 Phase 4: Growth & Community (Early 2026)  
+### 🌍 Phase 4: Growth & Community 
 - Add real eco product partners  
 - GreenPoints marketplace  
 - Multilingual support  
@@ -113,7 +113,7 @@ The UI is built using React and styled with Tailwind CSS for a clean, modern loo
 
 ---
 
-### 🚀 Phase 5: Mainnet Launch (Mid 2026)  
+### 🚀 Phase 5: Mainnet Launch
 - Move to Stellar mainnet  
 - Token listing on DEXs  
 - Launch official mobile app  
